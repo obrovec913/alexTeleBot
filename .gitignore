@@ -1,4 +1,2 @@
-a
-class
-mat
-venv
+.env
+db/bot.db
